@@ -3,7 +3,7 @@ PONG GUI created with java swing\
 ##If you want to play
 If you are interested in trying it out, download all the files\
 The main method is in StartUp so running that should start the game\
-\
+
 ## About:
 * This is the PONG game that most people should know of, rules are also below for those who do not know.
 * You are playing against a bot that is not very smart
